@@ -7,10 +7,10 @@ Este é um projeto em que ensinamos a construir um Dashboard para análise de da
 - Consumo de dados do Facebook/Instagram
 - Uso da API GraphAPI do Facebook/Instagram
 
-## Desenvolvimento do projeto:
-Para ver o desenvolvimento do projeto completo em vídeo:
+## Projeto:
+Para ver as aulas do desenvolvimento do projeto completo em vídeo:
 
-<a href = "https://asimov.academy/dashboard-api-fb-ads/"><img src="https://img.shields.io/badge/ASIMOV-Projeto%20Completo-lightgrey" target="_blank"></a> 
+<a href = "https://asimov.academy/dashboard-api-fb-ads/"><img src="https://img.shields.io/badge/ASIMOV-Aulas%20do%20projeto-lightgrey" target="_blank"></a> 
 
 ## Tecnologias Utilizadas:
 
